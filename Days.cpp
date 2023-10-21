@@ -39,7 +39,7 @@ int main()
 		}
 	}
 
-	else (cout << "Вы ввели не число или 0!");
+	else (cout << "Your enter not a numberor 0!");
 
 	cout << "Hello world!" << endl;
 }
